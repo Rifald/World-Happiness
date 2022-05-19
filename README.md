@@ -7,7 +7,7 @@ Documentation of a case study on world happiness data. I did this Case Study whe
 
 ### Ask
 The first step, I determine what things can be analyzed to help solve problems that exist in the company
-1. how is the level of happiness score for each country ?
+1. How is the level of happiness score for each country ?
 2. What factors that affect the happiness score ?
 
 ### Prepare
